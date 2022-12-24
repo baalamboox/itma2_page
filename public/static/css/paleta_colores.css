@@ -1,0 +1,45 @@
+:root {
+    --azul_principal: #1b396b;
+    --azul_tono_1: #244d90;
+    --azul_tono_2: #2e60b4;
+    --azul_tono_3: #4176cf;
+    --azul_tono_4: #6691d8;
+    --azul_tono_5: #93b1e4;
+
+    --gris_principal: #807e82;
+    --gris_tono_1: #979599;
+    --gris_tono_2: #aeadaf;
+    --gris_tono_3: #c5c4c6;
+    --gris_tono_4: #dcdbdd;
+    --gris_tono_5: #f8f8f8;
+
+    --azul_principal_sis: #137aa3;
+    --azul_tono_1_sis: #1899cc;
+    --azul_tono_2_sis: #2cb1e6;
+    --azul_tono_3_sis: #55c0eb;
+    --azul_tono_4_sis: #7ed0f0;
+    --azul_tono_5_sis: #b1e2f6;
+
+    --verde_principal_ges: #29f9aa;
+    --verde_tono_1_ges: #0df89f;
+    --verde_tono_2_ges: #3af9b1;
+    --verde_tono_3_ges: #67fbc3;
+    --verde_tono_4_ges: #94fcd4;
+    --verde_tono_5_ges: #f8fffc;
+
+    --vino_principal_ind: #4f091d;
+    --vino_tono_1_ind: #780e2c;
+    --vino_tono_2_ind: #a2123b;
+    --vino_tono_3_ind: #cb174a;
+    --vino_tono_4_ind: #e7295f;
+    --vino_tono_5_ind: #ec5c86;
+}
+.background-footer-sis {
+    background-color: var(--azul_principal_sis);
+}
+.text-sis {
+    color: var(--azul_principal_sis);
+}
+.background-social-networks {
+    background-color: var(--azul_principal_sis);
+}
